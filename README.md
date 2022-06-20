@@ -1,7 +1,7 @@
 # XAI
 Explainable Artificial Intelligence
 
-## Guided backpropagation [![arXiv](https://img.shields.io/badge/arXiv-2101.02127v2-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/1412.6806)
+## Guided backpropagation [![arXiv](https://img.shields.io/badge/arXiv-1412.6806-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/1412.6806)
 STRIVING FOR SIMPLICITY: THE ALL CONVOLUTIONAL NET
 >
 ```python
@@ -13,16 +13,16 @@ def _GuidedReluGrad(x):
 ```
 
 
-## Integrated gradients [![arXiv](https://img.shields.io/badge/arXiv-2101.02127v2-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/1703.01365)
+## Integrated gradients [![arXiv](https://img.shields.io/badge/arXiv-1703.01365-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/1703.01365)
 Axiomatic Attribution for Deep Networks
 >
 
 
-## Pettern Net [![arXiv](https://img.shields.io/badge/arXiv-2101.02127v2-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/1703.06339)
+## Pettern Net [![arXiv](https://img.shields.io/badge/arXiv-1703.06339-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/1703.06339)
 PatternNet: Visual Pattern Mining with Deep Neural Network
 >
 
-## Class-agnostic Activation Map (C<sup>2</sup>AM) [![arXiv](https://img.shields.io/badge/arXiv-2101.02127v2-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2203.13505) 
+## Class-agnostic Activation Map (C<sup>2</sup>AM) [![arXiv](https://img.shields.io/badge/arXiv-2203.13505-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2203.13505) 
 Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation
 > 
 
